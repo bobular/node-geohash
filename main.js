@@ -506,4 +506,4 @@ var geohash = {
   'bboxes_int': bboxes_int
 };
 
-module.exports = geohash;
+//module.exports = geohash;
