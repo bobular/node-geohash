@@ -262,6 +262,7 @@ var decode = function (hashString) {
           error: {latitude: latErr, longitude: lonErr}};
 };
 
+
 /**
  * Decode Integer
  *
